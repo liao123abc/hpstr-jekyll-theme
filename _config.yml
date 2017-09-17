@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Thomas Android Blog
+description:      Welcome to my blog.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,21 +9,21 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  name:           Thomas Liao
+  avatar:         thomasliao.png
+  bio:            "More is more than more."
+  email:          xiaodong502@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        TommyL42821183
+  facebook:       100013858426919
+  github:         liao123abc
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:
+  google_plus:   +113633849086001122944
 
 # Background image to be tiled on all pages
 background: 
